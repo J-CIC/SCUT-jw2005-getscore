@@ -1,0 +1,1 @@
+# SCUT-jw2005-getscore
